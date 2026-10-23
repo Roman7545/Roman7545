@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="[https://TU-URL-DIRECTA-DEL-GIF.gif](https://media.tenor.com/E3yTeyPvhM0AAAAj/halo-infinite.gif)"
+    src="https://TU-URL-DIRECTA-DEL-GIF.gif](https://media.tenor.com/E3yTeyPvhM0AAAAj/halo-infinite.gif"
     width="600"
     alt="Halo - Master Chief"
   />
