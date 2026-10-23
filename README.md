@@ -5,7 +5,7 @@
     alt="Master Chief from Halo"
   />
 </p>
-# Welcome to My GitHub Profile
+#Welcome to My GitHub Profile
 
 Software development student focused on backend engineering, database management, and secure system design. I enjoy building reliable software solutions, designing efficient data structures, and exploring technologies that improve performance, scalability, and security.
 
@@ -62,7 +62,7 @@ Software development student focused on backend engineering, database management
 I am interested in automotive technology, vehicle engineering, and the design of high-performance cars. I also enjoy the Halo franchise, particularly its science fiction universe, military technology, and worldbuilding.
 
 <p align="center">
-  <img src="YOUR_HALO_GIF_URL_HERE" width="600" alt="Halo animated banner" />
+  <img src="./assets/DMrTk9q_ELuOT8HAH4ZEI6YtJr3HLetmIdsUG20SNVvCF9QU4_Wxx-xUVaAXuDEGeNQPnaoF9VBSqstsLJY92CbAqZRmoOwnJKPFqoJQ6f2BMPcZnK207B3FfC_4xBSXlltUsFoN8oCRv50LxfwS5S-OYCiuVFlsaTyTajIDidp5-mI-gIEyou8fv82FkS8t" width="600" alt="Halo animated banner" />
 </p>
 
 ---
