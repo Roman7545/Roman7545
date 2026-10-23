@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/halo-master-chief.gif"
+    src="./assets/halo-infinite.gif"
     width="600"
     alt="Master Chief from Halo"
   />
