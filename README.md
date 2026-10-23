@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="./assets/halo-infinite.gif"
-    width="600"
+    width="180"
     alt="Master Chief from Halo"
   />
 </p>
