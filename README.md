@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://TU-URL-DIRECTA-DEL-GIF.gif](https://media.tenor.com/E3yTeyPvhM0AAAAj/halo-infinite.gif"
+    src="./assets/halo-master-chief.gif"
     width="600"
-    alt="Halo - Master Chief"
+    alt="Master Chief from Halo"
   />
-</p># Welcome to My GitHub Profile
+</p>
+# Welcome to My GitHub Profile
 
 Software development student focused on backend engineering, database management, and secure system design. I enjoy building reliable software solutions, designing efficient data structures, and exploring technologies that improve performance, scalability, and security.
 
