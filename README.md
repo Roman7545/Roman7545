@@ -5,7 +5,7 @@
     alt="Master Chief from Halo"
   />
 </p>
-#Welcome to My GitHub Profile
+# Welcome to My GitHub Profile
 
 Software development student focused on backend engineering, database management, and secure system design. I enjoy building reliable software solutions, designing efficient data structures, and exploring technologies that improve performance, scalability, and security.
 
